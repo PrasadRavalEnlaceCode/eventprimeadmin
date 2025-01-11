@@ -1,0 +1,1 @@
+ D:\\Android-Studio\\eventprimeadmin\\.dart_tool\\flutter_build\\deeeab151d195fb237a0c164a0e2ffcc\\native_assets.yaml: 
